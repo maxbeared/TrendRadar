@@ -3,111 +3,85 @@
 
 DeepSeek
 梁文锋
+Kimi
+智谱
+百川
+零一万物
 
 华为
 鸿蒙
-HarmonyOS
 任正非
+Mate70
+Pura70
+问界
 
 比亚迪
 王传福
+方程豹
+仰望
 
 大疆
 DJI
 
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
+小米
+雷军
+SU7
+澎湃OS
 
 黑神话
 冯骥
 
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
 三体
-流浪地球
 刘慈欣
+流浪地球
 郭帆
 
-申奥
-
-京东
-刘强东
-
 字节
-bytedance
 张一鸣
+抖音
+豆包
 
 特斯拉
 马斯克
-
-微软
-Microsoft
+Optimus
+Robotaxi
+FSD
 
 英伟达
 NVIDIA
 黄仁勋
+Blackwell
 
-AMD
+OpenAI
+ChatGPT
+o1
+Sora
+Grok
+Claude
+Gemini
+Llama
 
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
+苹果
+VisionPro
+AppleIntelligence
 
 芯片
 光刻机
+ASML
+台积电
+华为麒麟
+高通
 
-科技
+自动驾驶
+机器人
+人形机器人
 
+核聚变
 核能
-
-水电站
 雅鲁藏布江
 
-新质生产力
-
-月球
+太空
+Starship
 登月
 火星
-宇宙
-飞船
-航空
+朱雀三号
